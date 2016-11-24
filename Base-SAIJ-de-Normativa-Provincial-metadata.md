@@ -1,7 +1,7 @@
 # Base de datos legislativos Infoleg
 ===========================================================
 
-Este recurso contiene las leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente. La información se actualiza diariamente y las consultas actualizadas están disponibles en [SAIJ](http:/http:/www.saij.gob.ar/).
+Este recurso contiene las leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente. La información se actualiza diariamente y las consultas actualizadas están disponibles en [SAIJ](http:/www.saij.gob.ar/).
 
 Características
 ---------------
