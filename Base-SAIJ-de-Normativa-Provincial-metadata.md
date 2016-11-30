@@ -45,8 +45,6 @@ Recursos disponibles
 
 - **fecha (fecha):** Fecha que se sancionó la ley o se emitió el acto administrativo
 
-- **numero_boletin (entero):** Número de boletín donde se publicó la norma
-
 - **fecha_publicacion (fecha):** Fecha del Boletín Oficial Provincial donde se publicó la norma
 
 - **nombre_norma (string):** Nombre coloquial de la norma y/o nomenclatura conforme digesto provincial
