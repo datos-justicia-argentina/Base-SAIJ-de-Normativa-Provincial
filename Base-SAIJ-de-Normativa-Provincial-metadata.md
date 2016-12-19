@@ -25,7 +25,7 @@ Recursos disponibles
 
 ### Base SAIJ de Normativa Provincial
 
-- **Nombre del archivo:** base-infoleg-normativa-nacional.csv
+- **Nombre del archivo:** base-saij-normativa-provincial.csv
 
 - **Descripción del contenido:** Base de documentos digitales normativos provinciales: leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente.
 
