@@ -31,7 +31,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por coma
 
-- **Rango temporal:** Normas desde 1881 a la fecha de acuerdo producción normativa de cada provincia
+- **Rango temporal:** Normas desde 1881 a la fecha de acuerdo a la producción normativa de cada provincia
 
 ### Campos del recurso
 
@@ -41,7 +41,7 @@ Recursos disponibles
 
 - **numero_norma (string):** Número de la norma
 
-- **estado _vigencia (string):** Estado de vigencia de la norma: • Vigente de alcance general, • Derogada, • Individual, Solo Modificatoria o Sin Eficacia
+- **estado _vigencia (string):** Estado de vigencia de la norma: • Vigente de alcance general, • Derogada, • Individual,  • Solo Modificatoria o Sin Eficacia
 
 - **fecha (fecha):** Fecha que se sancionó la ley o se emitió el acto administrativo
 
