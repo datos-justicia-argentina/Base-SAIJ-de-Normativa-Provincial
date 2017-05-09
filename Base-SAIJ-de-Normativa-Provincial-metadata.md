@@ -1,12 +1,11 @@
 # Base SAIJ de Normativa Provincial
-===========================================================
 
 Este recurso contiene las leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente. La información se actualiza diariamente y las consultas actualizadas están disponibles en [SAIJ](http:/www.saij.gob.ar/).
 
 Características
 ---------------
 
-- **Fecha de Publicación:** 05/12/2016
+- **Fecha de Primera Publicación:** 05/12/2016
 
 - **Tags o Etiquetas:** leyes, decretos leyes, texto ordenado, códigos provinciales, constituciones provinciales, boletín oficial
 
