@@ -1,6 +1,6 @@
 # Base SAIJ de Normativa Provincial
 
-Este recurso contiene las leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente. La información se actualiza diariamente y las consultas actualizadas están disponibles en [SAIJ](http:/www.saij.gob.ar/).
+Este conjunto de datos contiene documentos digitales normativos provinciales: leyes,decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente.
 
 Características
 ---------------
@@ -26,7 +26,7 @@ Recursos disponibles
 
 - **Nombre del archivo:** base-saij-normativa-provincial.csv
 
-- **Descripción del contenido:** base de documentos digitales normativos provinciales: leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente.
+- **Descripción del contenido:** base de documentos digitales normativos provinciales: leyes, decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -34,24 +34,24 @@ Recursos disponibles
 
 ### Campos del recurso
 
- **provincia (string):** 
+ **provincia (string):** nombre de la provincia
 
 - **tipo_norma (string):** clasificación de la norma de acuerdo a la jerarquía normativa (ej. leyes, decisiones administrativas, decretos, etc.)
 
 - **numero_norma (string):** número de la norma o S/N (sin número)
 
-- **estado_vigencia (string):**
+- **estado_vigencia (string):** estado de vigencia de la norma (vigente de alcance general, derogada, individual, solo modificatoria o sin eficacia)
 
 - **fecha (date):** fecha que se sancionó la ley o se emitió el acto administrativo
 
-- **fecha_publicacion (date):** fecha del Boletín Oficial (BO) donde se publicó la norma
+- **fecha_publicacion (date):** fecha del Boletín Oficial provincial donde se publicó la norma
 
-- **nombre_norma (string):** nombre de la norma (ej. Comunicaciones A B C, Resoluciones Conjuntas, etc.)
+- **nombre_norma (string):** nombre coloquial de la norma y/o nomenclatura conforme digesto provincial
 
-- **titulo_resumido (string):** tema específico que trata la norma
+- **titulo_resumido (string):** descripción específica del contenido de la norma
 
 - **titulo_sumario (string):** tema genérico que trata la norma
 
-- **informacion_digesto (string):**
+- **informacion_digesto (string):** información proveniente de las consolidaciones por digesto a la norma
 
 - **texto_actualizado (string):** link al texto actual vigente de la norma
