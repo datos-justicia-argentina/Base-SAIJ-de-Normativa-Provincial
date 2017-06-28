@@ -50,7 +50,7 @@ Recursos disponibles
 
 - **titulo_resumido (string):** descripción específica del contenido de la norma
 
-- **titulo_sumario (string):** tema genérico que trata la norma
+- **titulo_sumario (string):** descripción genérica del contenido de la norma
 
 - **informacion_digesto (string):** información proveniente de las consolidaciones por digesto a la norma
 
