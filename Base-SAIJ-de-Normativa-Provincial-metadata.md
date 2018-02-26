@@ -2,12 +2,14 @@
 
 Este conjunto de datos contiene documentos digitales normativos provinciales: leyes,decretos leyes, textos ordenados, códigos y Constituciones publicados en el Boletín Oficial de la Provincia correspondiente.
 
+http://datos.jus.gob.ar/dataset/base-saij-de-normativa-provincial
+
 Características
 ---------------
 
 - **Fecha de Primera Publicación:** 05/12/2016
 
-- **Tags o Etiquetas:** leyes, decretos leyes, texto ordenado, códigos provinciales, constituciones provinciales, boletín oficial
+- **Tags o Etiquetas:** leyes, decretos, códigos provinciales, constituciones provinciales, boletín oficial
 
 - **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
 
