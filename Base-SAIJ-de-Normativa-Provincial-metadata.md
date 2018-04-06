@@ -32,7 +32,7 @@ Recursos disponibles
 
 - **Formato:** CSV delimitado por comas, codificado en UTF-8
 
-- **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+- **Rango temporal:** documentos digitales normativos provinciales desde el año 1886 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
