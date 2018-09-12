@@ -58,6 +58,8 @@ Recursos disponibles
 
 - **texto_actualizado (string):** link al texto actual vigente de la norma
 
+- **provincia_indec_id (string):** código de la provincia en la que se publicó la norma según la codificación de provincia implementada por INDEC
+
 Notas
 -----
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 106 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-106-APN-MJ.pdf), del 2 de Febrero de 2017.
