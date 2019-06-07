@@ -58,7 +58,7 @@ Recursos disponibles
 
 - **texto_actualizado (string):** link al texto actual vigente de la norma
 
-- **provincia_indec_id (string):** código de la provincia en la que se publicó la norma según la codificación de provincia implementada por INDEC (este campo está disponible desde agosto de 2018)
+- **provincia_id (string):** código de la provincia en la que se publicó la norma según la codificación de provincia implementada por INDEC (este campo está disponible desde agosto de 2018)
 
 Notas
 -----
