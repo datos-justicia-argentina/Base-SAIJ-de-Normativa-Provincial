@@ -36,7 +36,7 @@ Recursos disponibles
 
 ### Campos del recurso
 
-- **provincia (string):** nombre de la provincia
+- **provincia_nombre (string):** nombre de la provincia
 
 - **tipo_norma (string):** clasificación de la norma de acuerdo a la jerarquía normativa (ej. leyes, decisiones administrativas, decretos, etc.)
 
