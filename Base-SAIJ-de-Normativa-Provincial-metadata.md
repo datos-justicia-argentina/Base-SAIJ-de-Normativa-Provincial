@@ -38,7 +38,75 @@ Recursos disponibles
 
 - **provincia_nombre (string):** nombre de la provincia
 
-- **tipo_norma (string):** clasificación de la norma de acuerdo a la jerarquía normativa (ej. leyes, decisiones administrativas, decretos, etc.)
+- **tipo_norma (string):** clasificación de la norma de acuerdo a la jerarquía normativa (ej. leyes, decisiones administrativas, decretos, etc.) Puede tomar los siguientes valores:
+    CON : Constitución Nacional
+    LEY : Ley
+    DEC : Decreto
+    DLE : Decreto Ley
+    RES : Resolución
+    DIS : Disposición
+    TOR : Texto Ordenado Ley
+    TOD : Texto Ordenado Decreto
+    CIR : Circular
+    CCI : Código Civil
+    CCN : Código Civil y Comercial
+    CCO : Código Comercial
+    CPE : Código Penal
+    CPC : Código Procesal Civil Comercial
+    CPP : Código Procesal Penal
+    CJM : Código Justicia Militar
+    CMI : Código Minería
+    CAD : Código Aduanero
+    CTL : Comunicado Telefónico
+    CAE : Código Aeronáutico
+    CCA : Código Contencioso Administrativo
+    CFP : Código Fiscal
+    LEE : Ley Extranjera
+    CEL : Código Electoral
+    ORD : Ordenanza
+    CCT : Convenio Colectivo de Trabajo
+    EXP : Expediente
+    LDO : Laudo
+    CPT : Código Procesal del Trabajo
+    NJF : Norma Jurídica de Facto
+    TRA : Tratado
+    CIT : Circular Técnica
+    REG : Resolución
+    CIA : Circular Administrativa
+    COM : Comunicación (Banco)"
+    DIR : Directiva
+    DOR : Decreto Ordenanza
+    COV : Convenio
+    NOR : Norma
+    DAN : Decisión Administrativa
+    LCT : Ley de Contrato de Trabajo
+    CAL : Código Alimenticio Nacional
+    DEM : Decisión del Mercosur
+    REM : Resolución
+    LPA : Ley de Procedimiento Administrativo
+    LSO : Ley de Sociedades
+    REN : Resolución
+    ZZZ : Otros
+    REA : Resolución
+    CCC : Código Contravencional
+    CCP : Código de P. Contravencional
+    ADG : Actuación ADGA (Aduana)"
+    DAD : Dictamen Aduana
+    DID : Dictamen de AFIP o DGI
+    NCM : Nomenclatura Común del Mercosur
+    DNU : Decreto de Necesidad y Urgencia
+    DAC : Decreto Acuerdo
+    COT : Código Tributario
+    ACO : Acordada
+    RID : Resolución
+    CPM : Código Procesal Minero
+    ACP : Acordada de Corte Provincial
+    CAT : Código Contencioso Administrativo y Tributario
+    CFA : Código de Faltas
+    CRU : Código Rural
+    ACU : Acuerdo
+    RSC : Resolución
+    OPI : Opinión Consultiva
 
 - **numero_norma (string):** número de la norma o S/N (sin número)
 
