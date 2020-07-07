@@ -39,74 +39,74 @@ Recursos disponibles
 - **provincia_nombre (string):** nombre de la provincia
 
 - **tipo_norma (string):** clasificación de la norma de acuerdo a la jerarquía normativa (ej. leyes, decisiones administrativas, decretos, etc.) Puede tomar los siguientes valores:
-    CON : Constitución Nacional
-    LEY : Ley
-    DEC : Decreto
-    DLE : Decreto Ley
-    RES : Resolución
-    DIS : Disposición
-    TOR : Texto Ordenado Ley
-    TOD : Texto Ordenado Decreto
-    CIR : Circular
-    CCI : Código Civil
-    CCN : Código Civil y Comercial
-    CCO : Código Comercial
-    CPE : Código Penal
-    CPC : Código Procesal Civil Comercial
-    CPP : Código Procesal Penal
-    CJM : Código Justicia Militar
-    CMI : Código Minería
-    CAD : Código Aduanero
-    CTL : Comunicado Telefónico
-    CAE : Código Aeronáutico
-    CCA : Código Contencioso Administrativo
-    CFP : Código Fiscal
-    LEE : Ley Extranjera
-    CEL : Código Electoral
-    ORD : Ordenanza
-    CCT : Convenio Colectivo de Trabajo
-    EXP : Expediente
-    LDO : Laudo
-    CPT : Código Procesal del Trabajo
-    NJF : Norma Jurídica de Facto
-    TRA : Tratado
-    CIT : Circular Técnica
-    REG : Resolución
-    CIA : Circular Administrativa
-    COM : Comunicación (Banco)"
-    DIR : Directiva
-    DOR : Decreto Ordenanza
-    COV : Convenio
-    NOR : Norma
-    DAN : Decisión Administrativa
-    LCT : Ley de Contrato de Trabajo
-    CAL : Código Alimenticio Nacional
-    DEM : Decisión del Mercosur
-    REM : Resolución
-    LPA : Ley de Procedimiento Administrativo
-    LSO : Ley de Sociedades
-    REN : Resolución
-    ZZZ : Otros
-    REA : Resolución
-    CCC : Código Contravencional
-    CCP : Código de P. Contravencional
-    ADG : Actuación ADGA (Aduana)"
-    DAD : Dictamen Aduana
-    DID : Dictamen de AFIP o DGI
-    NCM : Nomenclatura Común del Mercosur
-    DNU : Decreto de Necesidad y Urgencia
-    DAC : Decreto Acuerdo
-    COT : Código Tributario
-    ACO : Acordada
-    RID : Resolución
-    CPM : Código Procesal Minero
-    ACP : Acordada de Corte Provincial
-    CAT : Código Contencioso Administrativo y Tributario
-    CFA : Código de Faltas
-    CRU : Código Rural
-    ACU : Acuerdo
-    RSC : Resolución
-    OPI : Opinión Consultiva
+    - Constitución Nacional
+    - Ley
+    - Decreto
+    - Decreto Ley
+    - Resolución
+    - Disposición
+    - Texto Ordenado Ley
+    - Texto Ordenado Decreto
+    - Circular
+    - Código Civil
+    - Código Civil y Comercial
+    - Código Comercial
+    - Código Penal
+    - Código Procesal Civil Comercial
+    - Código Procesal Penal
+    - Código Justicia Militar
+    - Código Minería
+    - Código Aduanero
+    - Comunicado Telefónico
+    - Código Aeronáutico
+    - Código Contencioso Administrativo
+    - Código Fiscal
+    - Ley Extranjera
+    - Código Electoral
+    - Ordenanza
+    - Convenio Colectivo de Trabajo
+    - Expediente
+    - Laudo
+    - Código Procesal del Trabajo
+    - Norma Jurídica de Facto
+    - Tratado
+    - Circular Técnica
+    - Resolución
+    - Circular Administrativa
+    - Comunicación (Banco)"
+    - Directiva
+    - Decreto Ordenanza
+    - Convenio
+    - Norma
+    - Decisión Administrativa
+    - Ley de Contrato de Trabajo
+    - Código Alimenticio Nacional
+    - Decisión del Mercosur
+    - Resolución
+    - Ley de Procedimiento Administrativo
+    - Ley de Sociedades
+    - Resolución
+    - Otros
+    - Resolución
+    - Código Contravencional
+    - Código de P. Contravencional
+    - Actuación ADGA (Aduana)"
+    - Dictamen Aduana
+    - Dictamen de AFIP o DGI
+    - Nomenclatura Común del Mercosur
+    - Decreto de Necesidad y Urgencia
+    - Decreto Acuerdo
+    - Código Tributario
+    - Acordada
+    - Resolución
+    - Código Procesal Minero
+    - Acordada de Corte Provincial
+    - Código Contencioso Administrativo y Tributario
+    - Código de Faltas
+    - Código Rural
+    - Acuerdo
+    - Resolución
+    - Opinión Consultiva
 
 - **numero_norma (string):** número de la norma o S/N (sin número)
 
