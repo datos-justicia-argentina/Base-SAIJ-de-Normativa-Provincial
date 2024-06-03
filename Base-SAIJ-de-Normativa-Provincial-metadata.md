@@ -11,11 +11,11 @@ Características
 
 - **Tags o Etiquetas:** leyes, decretos, códigos provinciales, constituciones provinciales, boletín oficial
 
-- **Organización:** Ministerio de Justicia. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
+- **Organización:** Ministerio de Justicia. Secretaría de Justicia. Dirección Nacional del Sistema Argentino de Información Jurídica
+  
+- **Autor:** Ministerio de Justicia. Secretaría de Justicia. Dirección Nacional del Sistema Argentino de Información Jurídica
 
-- **Autor:** Ministerio de Justicia. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
-
-- **Responsable:** Ministerio de Justicia. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
+- **Responsable:** Ministerio de Justicia. Secretaría de Justicia. Dirección Nacional del Sistema Argentino de Información Jurídica
 
 - **Grupo:** Información Jurídica
 
