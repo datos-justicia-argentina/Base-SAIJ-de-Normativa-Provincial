@@ -11,11 +11,11 @@ Características
 
 - **Tags o Etiquetas:** leyes, decretos, códigos provinciales, constituciones provinciales, boletín oficial
 
-- **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
+- **Organización:** Ministerio de Justicia. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
 
-- **Autor:** Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
+- **Autor:** Ministerio de Justicia. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
 
-- **Responsable:** Ministerio de Justicia y Derechos Humanos. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
+- **Responsable:** Ministerio de Justicia. Secretaría de Planificación Estratégica. Dirección Nacional del Sistema Argentino de Información Jurídica
 
 - **Grupo:** Información Jurídica
 
@@ -133,4 +133,4 @@ Notas
 
 [Ley 27.275 - Derecho de Acceso a la Información Pública]( http://servicios.infoleg.gob.ar/infolegInternet/anexos/265000-269999/265949/norma.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 106 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-106-APN-MJ.pdf), del 2 de Febrero de 2017.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 106 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2017-106-APN-MJ.pdf), del 2 de Febrero de 2017.
